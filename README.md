@@ -3,6 +3,8 @@
 **Problem Statement**
 To predict the salary of employee based on the information provided in the dataset.
 
+<a href="https://nbviewer.org/github/patilkiran123/ai-robotics-employee-salary-insights-and-predictions/blob/main/employee-salary-insights-and-predictions.ipynb" target="_blank">View Notebook for entire analysis, and Documentation</a>
+
 **Business Aspect**
 Mr. Francis who is the Manager of Ai Robotics is very disturbed because the employee in his company are leaving the company due to various reasons.  
 To tackle this problem he hires Mr. Andrew who is a Data Scientist and provides him with the dataset.
