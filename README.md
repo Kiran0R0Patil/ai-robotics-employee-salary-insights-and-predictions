@@ -27,4 +27,4 @@ test_dataset.csv = 1000000 x 8
 - milesFromMetropolis - distance in miles between the company and his house.
 - salary - salary given to the employee. For example 250 indicates 2,50,000 in dollars.
 
-*[kindly view the Notebook for entire analysis, and prediction model](https://nbviewer.org/github/patilkiran123/ai-robotics-employee-salary-insights-and-predictions/blob/main/employee-salary-insights-and-predictions.ipynb)*
+<a href="https://nbviewer.org/github/patilkiran123/ai-robotics-employee-salary-insights-and-predictions/blob/main/employee-salary-insights-and-predictions.ipynb" target="_blank">Kindly view the Notebook for entire analysis, and Documentation</a>
