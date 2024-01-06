@@ -1,6 +1,8 @@
 # ai-robotics-employee-salary-insights-and-predictions
 
 **Problem Statement**
+Addressing the challenge of employee turnover in AI Robotics, I conducted a detailed data analysis on a significant employee salary dataset using Python and Machine Learning techniques. Through thorough data cleaning and in-depth analysis, I aimed to uncover patterns and insights to inform strategies for maintaining a stable and skilled workforce.
+
 To predict the salary of employee based on the information provided in the dataset.
 
 <a href="https://nbviewer.org/github/patilkiran123/ai-robotics-employee-salary-insights-and-predictions/blob/main/employee-salary-insights-and-predictions.ipynb" target="_blank">View Notebook for entire analysis, and Documentation</a>
